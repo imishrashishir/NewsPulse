@@ -12,6 +12,7 @@ Welcome to the News Website project built with React.js! This project aims to pr
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
+- [Important Note for Viewers](#Note).
 
 
 ## Introduction
@@ -64,4 +65,9 @@ Welcome to the News Website project built with React.js! This project aims to pr
 
 🚀 Contributions are welcome! If you'd like to contribute to this project, please follow the and send pull request.
 
+
+## Note
+
+This Website using Free Version of News API, Which available for developers so this website only run on local host untill used the premium version of API if We use Premium version then 
+we can use it on server also, ultil we can't deploy it. So Please Follow Above Given [Step](#installation) to Run this Website
 
