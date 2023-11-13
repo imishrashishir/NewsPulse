@@ -12,7 +12,7 @@ Welcome to the News Website project built with React.js! This project aims to pr
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
